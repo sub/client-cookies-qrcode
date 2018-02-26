@@ -1,0 +1,13 @@
+/node_modules
+*.LCK
+*.swp
+*~
+
+# Emacs
+.projectile
+*GTAGS*
+*GPATH*
+*GRTAGS*
+
+# generated qrcodes
+*.png

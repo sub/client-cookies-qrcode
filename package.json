@@ -1,0 +1,9 @@
+{
+  "name": "stealth-service-qrcode",
+  "description": "Client Cookies QR Code generator for Orbot",
+  "repository": "sub/client-cookies-qrcode",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.2.0"
+  }
+}
